@@ -1,0 +1,26 @@
+body {
+    background-color: $light-grey;
+}
+
+.icon {
+    max-width: 40px;
+}
+
+.section {
+
+    &--small {
+        min-height: 100px;
+    }
+}
+
+.card {
+    
+    :hover {
+        cursor: pointer;
+    }
+}
+
+.card-img-overlay-br {
+    top: unset;
+    left: unset;
+}
