@@ -28,7 +28,6 @@ describe('loadMoreItems function', () => {
     const targetDiv = document.querySelector('.loadMore')
     const nextItems = 9
     await loadMoreItems(targetDiv, nextItems)
-    console.log(targetDiv.children[0].children[0])
     expect(targetDiv.firstElementChild.classList.value).toBe('row')
   })
 })

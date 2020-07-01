@@ -10,7 +10,7 @@
   </section>
   <section class="bg-white jumbotron justify-content-center mb-0 row">
     <div class="d-flex align-items-center">
-      <img src="../assets\images\icon.png" class="icon">
+      <img src="@/assets/images/icon.png" class="icon">
       <h5 class="font-weight-normal mb-0">&nbsp;Find out more at</h5>
       <h5 class="text-primary mb-0">&nbsp;www.people.com</h5>
     </div>

@@ -1,8 +1,8 @@
 <template>
     <div class="card h-100">
         <div class="position-relative">
-            <img src="../assets\images\Programmer-working-in-a-software-developing-company-office-665158684_5379x3586.jpeg" class="card-img-top" alt="Programmer working in office">
-            <img src="../assets\images\play-icon.png" class="card-img-overlay card-img-overlay-br w-25" alt="Play video icon">
+            <img src="@/assets/images/Programmer-working-in-a-software-developing-company-office-665158684_5379x3586.jpeg" class="card-img-top" alt="Programmer working in office">
+            <img src="@/assets/images/play-icon.png" class="card-img-overlay card-img-overlay-br w-25" alt="Play video icon">
         </div>
         <div class="card-body">
             <h5 class="card-title text-primary">{{ title }}</h5>
